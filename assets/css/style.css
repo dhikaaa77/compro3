@@ -299,6 +299,16 @@ a {
   margin: 0;
 }
 
+.project-card .card-body {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.project-card .card-body p {
+  margin: 0;
+}
+
 .image-frame {
   position: relative;
   width: 100%;
